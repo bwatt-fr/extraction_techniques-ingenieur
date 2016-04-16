@@ -1,8 +1,8 @@
 # Goal
 
-This scripts were written to download all the publications of the website techiques de l'ingenieur.
-A friend needed all the publications in order to study the keywords they had in common. Althouth the publications are freely downloadables,
-it was impossible to download all of them. My friend asked me to write a script to download them all.
+This scripts were written to download all the publication summaries of the website techiques de l'ingenieur.
+A friend needed all these summaries in order to study the keywords they had in common. Althouth there are freely downloadables,
+it was impossible to download all of them. My friend asked me to write a script to do that.
 
 # Language
 
